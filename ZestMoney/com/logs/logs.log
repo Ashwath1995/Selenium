@@ -1,0 +1,26 @@
+2020-02-20 08:09:59,081 :INFO : test_execute :In flipkart searching an iPhone XR (64GB) - yellow + "product
+2020-02-20 08:10:08,215 :INFO : test_execute :In flipkart searching an iPhone XR (64GB) - yellow + "product
+2020-02-20 08:12:01,133 :INFO : test_execute :In flipkart searching an iPhone XR (64GB) - yellow + "product
+2020-02-20 08:12:06,674 :INFO : test_execute :In amazon searching an iPhone XR (64GB) - yellow + "product
+2020-02-20 08:12:14,887 :INFO : test_execute :Amazon price : 
+2020-02-20 08:12:14,887 :INFO : test_execute :Sucess !
+2020-02-20 08:13:48,255 :INFO : test_execute :In flipkart searching an iPhone XR (64GB) - yellow 
+2020-02-20 08:13:53,329 :INFO : test_execute :In amazon searching an iPhone XR (64GB) - yellow
+2020-02-20 08:13:55,748 :INFO : test_execute :Amazon price : 
+2020-02-20 08:13:55,749 :INFO : test_execute :Sucess !
+2020-02-20 08:15:05,109 :INFO : test_execute :In flipkart searching an iPhone XR (64GB) - yellow 
+2020-02-20 08:15:16,330 :INFO : test_execute :In amazon searching an iPhone XR (64GB) - yellow
+2020-02-20 08:15:19,355 :INFO : test_execute :Amazon price : 
+2020-02-20 08:15:19,356 :INFO : test_execute :Sucess !
+2020-02-20 08:25:15,873 :INFO : test_execute :In flipkart searching an iPhone XR (64GB) - yellow 
+2020-02-20 08:25:28,923 :INFO : test_execute :In amazon searching an iPhone XR (64GB) - yellow
+2020-02-20 08:25:32,487 :INFO : test_execute :Amazon price : 
+2020-02-20 08:25:32,488 :INFO : test_execute :Sucess !
+2020-02-21 08:32:02,719 :INFO : test_execute :In flipkart searching an iPhone XR (64GB) - yellow 
+2020-02-21 08:32:35,755 :INFO : test_execute :In amazon searching an iPhone XR (64GB) - yellow
+2020-02-21 08:32:49,699 :INFO : test_execute :Amazon price : 
+2020-02-21 08:32:49,934 :INFO : test_execute :Sucess !
+2020-02-24 20:07:16,356 :INFO : test_execute :In flipkart searching an iPhone XR (64GB) - yellow 
+2020-02-24 20:07:27,547 :INFO : test_execute :In amazon searching an iPhone XR (64GB) - yellow
+2020-02-24 20:07:31,339 :INFO : test_execute :Amazon price : 
+2020-02-24 20:07:31,339 :INFO : test_execute :Sucess !
